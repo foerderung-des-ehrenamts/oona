@@ -1,0 +1,50 @@
+/*
+ Theme Name:   oona
+ Theme URI:    https://github.com/foerderung-des-ehrenamts/oona
+ Description:  Chaplin Child Theme
+ Author:       Marco Hitschler
+ Author URI:   https://www.unmus.de
+ Template:     chaplin
+ Version:      0.1
+ License:      GNU General Public License v3
+ License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+ Tags:         simple, minimal, responsive, white, blocks
+ Text Domain:  oona
+*/
+
+/* Start Page */
+
+/* Intro Text */
+
+.talu-intro-text p
+{
+    max-width: 600px !important;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+/* Latest Posts */
+
+.wp-block-latest-posts__list li 
+{
+    border-top-width: 0 !important;
+}
+
+/* Post */
+
+/* Appendix Download */
+
+.oona-news-appendix
+{
+    margin-top:30px;
+}
+
+/* Archives */
+
+/* Remove Media Preview */
+
+.blog .preview-media,
+.tag .preview-media
+{
+    display:none;
+}
