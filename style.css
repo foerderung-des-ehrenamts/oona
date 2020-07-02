@@ -14,15 +14,6 @@
 
 /* Start Page */
 
-/* Intro Text */
-
-.talu-intro-text p
-{
-    max-width: 600px !important;
-    margin-right:auto;
-    margin-left:auto;
-}
-
 /* Latest Posts */
 
 .wp-block-latest-posts__list li 

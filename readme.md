@@ -34,6 +34,14 @@ Following custom fields are supported.
 
 1. Do it the WordPress Way! 
 
+## Workflow
+
+This repository follows the Git Flow Workflow.
+
+## Continuous Deployment
+
+Commits to Master Branch will be deployed to the productive environment automaticly. Also commits to the Develop Branch will be deployed to the dev environment automaticly.
+
 ## Built With
 
 * [Visual Studio Code](https://code.visualstudio.com)
@@ -51,3 +59,4 @@ Release pending
 * Added: Archive Custom Post Type Medienspiegel
 * Added: Remove Autor Fields
 * Added: Remove Copyright Fields
+* Added: Custom Styles
