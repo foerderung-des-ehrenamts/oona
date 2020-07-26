@@ -40,7 +40,7 @@ This repository follows the Git Flow Workflow.
 
 ## Continuous Deployment
 
-Commits to Master Branch will be deployed to the productive environment automaticly. Also commits to the Develop Branch will be deployed to the dev environment automaticly.
+Commits to Master Branch will be deployed to the productive environment with GitHub Actions automaticly. Commits to the Develop Branch will be deployed to the staging environment with the same procedures.
 
 ## Built With
 
