@@ -1,10 +1,10 @@
 # oona
 
-onna is the Chaplin Child Theme running on [tafel-ludwighafen.de](https://tafel-ludwighafen.de/).
+onna is the Chaplin Child Theme formerly running on [tafel-ludwighafen.de](https://tafel-ludwighafen.de/).
 
 ## Description 
 
-The Child Theme oona refers the [Theme Chaplin](https://andersnoren.se/themes/chaplin/) by [Anders Noren](https://www.andersnoren.se). It's created specially for[tafel-ludwighafen.de](https://tafel-ludwighafen.de/).
+The Child Theme oona refers the [Theme Chaplin](https://andersnoren.se/themes/chaplin/) by [Anders Noren](https://www.andersnoren.se). It was created specially for[tafel-ludwighafen.de](https://tafel-ludwighafen.de/).
 
 ## Modified Templates
 
@@ -38,10 +38,6 @@ Following custom fields are supported.
 
 This repository follows the Git Flow Workflow.
 
-## Continuous Deployment
-
-Commits to Master Branch will be deployed to the productive environment with GitHub Actions automaticly. Commits to the Develop Branch will be deployed to the staging environment with the same procedures.
-
 ## Built With
 
 * [Visual Studio Code](https://code.visualstudio.com)
@@ -53,8 +49,6 @@ This project is licensed under the GPL3 License.
 ## Changelog
 
 ### 0.1
-
-Release pending
 
 * Added: Archive Custom Post Type Medienspiegel
 * Added: Remove Autor Fields
