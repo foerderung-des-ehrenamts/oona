@@ -4,7 +4,7 @@ onna is the Chaplin Child Theme formerly running on [tafel-ludwighafen.de](https
 
 ## Description 
 
-The Child Theme oona refers the [Theme Chaplin](https://andersnoren.se/themes/chaplin/) by [Anders Noren](https://www.andersnoren.se). It was created specially for[tafel-ludwighafen.de](https://tafel-ludwighafen.de/).
+The Child Theme oona refers the [Theme Chaplin](https://andersnoren.se/themes/chaplin/) by [Anders Noren](https://www.andersnoren.se). It was created specially for [tafel-ludwighafen.de](https://tafel-ludwighafen.de/).
 
 ## Modified Templates
 
